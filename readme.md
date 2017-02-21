@@ -1,4 +1,4 @@
-Vanilla JavaScript code challenge!
+🏆 Vanilla JavaScript code challenge!
 
 # Challenge 1
 
